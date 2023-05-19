@@ -26,7 +26,7 @@ __________________________________________________________________
 
 **GitHub**
 
-   - [Сылка на проект в GitHub](https://github.com/KristinaRyzhova/russian-travel)
+   - [Ссылка на проект в GitHub](https://github.com/KristinaRyzhova/russian-travel)
 
 ________________________________________________________________
 
