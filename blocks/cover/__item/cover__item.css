@@ -1,0 +1,16 @@
+.cover__item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  padding: 0;
+  aspect-ratio: 16/10;
+  background-color: rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.cover__item:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
