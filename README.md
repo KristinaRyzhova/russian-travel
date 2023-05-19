@@ -28,6 +28,10 @@ __________________________________________________________________
 
    - [Ссылка на проект в GitHub](https://github.com/KristinaRyzhova/russian-travel)
 
+
+**WWW**
+
+   - [Сайт проекта](https://kristinaryzhova.github.io/russian-travel/)
 ________________________________________________________________
 
 ## Автор:
