@@ -1,9 +1,8 @@
-.page {  
+.page {
   width: 100%;
   min-width: 320px;
   max-width: 1184px;
   height: 100%;
   box-sizing: border-box;
   margin: 0 auto;
-  /*overflow: hidden;*/
 }

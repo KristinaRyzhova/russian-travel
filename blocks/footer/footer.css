@@ -7,24 +7,24 @@
   padding-top: 64px;
   padding-bottom: 24px;
 }
-  
-  @media screen and (min-width: 768px) {
-    .footer {
-      width: 93.75%;
-      display: grid;
-      grid-template-rows: 18px;
-      grid-template-columns: 1fr 186px;
-    }
+
+@media screen and (min-width: 768px) {
+  .footer {
+    width: 93.75%;
+    display: grid;
+    grid-template-rows: 18px;
+    grid-template-columns: 1fr 186px;
   }
-  
-  @media screen and (min-width: 1024px) {
-    .footer {
-      width: 90.625%;
-    }
+}
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    width: 90.625%;
   }
-  
-  @media screen and (min-width: 1280px) {
-    .footer {
-      width: 1184px;
-    }
+}
+
+@media screen and (min-width: 1280px) {
+  .footer {
+    width: 1184px;
   }
+}
