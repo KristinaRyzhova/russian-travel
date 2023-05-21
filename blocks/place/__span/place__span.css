@@ -1,4 +1,7 @@
-.places__website_url-heading {
+.place__span {
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
   font-size: 12px;
   line-height: 1.7;
   letter-spacing: 2px;

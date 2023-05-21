@@ -1,4 +1,7 @@
 .cover__title {
+  margin: 0;
+  padding: 0;
+  width: 288px;
   text-align: center;
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   font-style: normal;
@@ -6,8 +9,7 @@
   font-weight: 900;
   font-size: 2rem;
   line-height: 1.09;
-  width: 288px;
-  height: 70px;
+  
 }
 
 @media screen and (min-width: 768px) {
@@ -16,6 +18,5 @@
     font-size: 4.5rem;
     line-height: 1.06;
     width: 560px;
-    height: 152px;
   }
 }

@@ -14,12 +14,14 @@
     display: grid;
     grid-template-rows: 18px;
     grid-template-columns: 1fr 186px;
+    padding-top: 88px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .footer {
     width: 90.625%;
+    padding-top: 92px;
   }
 }
 
