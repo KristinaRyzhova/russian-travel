@@ -13,6 +13,8 @@
   .places {
     width: 93.75%;
     min-width: 720px;
+    padding-top: 88px;
+    row-gap: 73px;
   }
 }
 
@@ -20,12 +22,7 @@
   .places {
     width: 90.625%;
     min-width: 928px;
-    padding-top: 88px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .places {
     padding-top: 92px;
+    row-gap: 80px;
   }
 }
